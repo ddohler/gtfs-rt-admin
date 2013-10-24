@@ -1,0 +1,156 @@
+# auth
+
+secure.title=
+secure.username=Username
+secure.password=Password
+secure.remember=Remember me
+secure.signin=Sign in
+secure.error=Username or password is incorrect.
+secure.logout=You have been logged out.
+secure.change-password=Change password
+
+
+# app 
+
+application.name=Public transit alerts
+
+# nav-bar
+
+nav-bar.agency=Transit agency information
+nav-bar.home=Home
+nav-bar.contact=Contact
+nav-bar.user-greeting=Welcome!
+
+nav-bar.export=Export
+nav-bar.admin=Administrator
+
+nav-bar.map=Map of alerts
+nav-bar.all=All alerts
+
+nav-bar.logout=Logout
+
+nav-bar.settings=Settings
+
+nav-bar.manage-users=Manage accounts
+
+nav-bar.select-agency=Agencies
+
+
+# rt format
+
+rt.last-update=Last update
+
+# shared
+
+shared.optional=Optional
+shared.required=Required
+
+shared.alerts=Alerts
+
+shared.details=Details
+
+shared.button.save=Save
+shared.button.delete=Delete
+shared.button.save-continue=Save and continue
+shared.button.edit=Edit
+shared.button.close=Close
+shared.button.cancel=Cancel
+shared.button.add=Add
+shared.button.update=Update
+shared.button.remove=Remove
+shared.button.change=Change
+
+shared.explore-search-routes=Explore/Search routes
+shared.new-route=New route
+
+shared.stop=Stops
+shared.route=Routes
+
+shared.loading=Loading
+
+# main 
+
+main.active-alerts=Currently active alerts
+main.future-alerts=Future active alerts
+
+main.no-active-alerts=No currently active alerts.
+main.no-future-alerts=No future alerts.
+
+main.new-alert=Creat new alert
+
+main.no-title=No title
+main.no-description=No description
+
+main.entities=Services affected:
+
+
+# create
+
+create-alert.title=Create/edit alert
+
+create.general-info=General information
+create.times=Dates / Times affected
+create.entities=Affected public transit services
+
+create.no-routes-stops=No routes or stops are selected.
+create.add-range=Additional dates / times
+create.save-failed=Could not create alert
+create.publicly-visible=Publicly visible
+
+create.title=Title
+create.description=Description
+create.comments=Comments
+create.cause=Cause
+create.effect=Effect
+
+create.from=From
+create.to=To
+
+create.show-map=Show map
+create.hide-map=Hide map
+
+create.times=Dates / Times affected
+
+create.entities=Affected public transit services
+
+create.add-route=Add route
+
+create.add-stop=Add stop
+
+create.created-at=Created at
+create.updated-at=Updated at
+
+
+# user management
+
+#Change password
+
+user-mgmt.change-password-prompt=Provide your current and new password.
+user-mgmt.current-password=Current password
+user-mgmt.password-incorrect=Incorrect password
+user-mgmt.new-password=New password
+user-mgmt.new-password-again=New Password (again)
+user-mgmt.passwords-dont-match=Passwords don't match.
+
+
+#Account management
+
+user-mgmt.account-management=Account management
+user-mgmt.create-account=Create account
+user-mgmt.username=Username
+user-mgmt.email=Email
+user-mgmt.last-login=Last login
+user-mgmt.agency=Agency
+user-mgmt.agency-admin=Agency administrator
+user-mgmt.active=Active
+
+user-mgmt-username-already-in-use=That username is already in use
+user-mgmt-invalid-email=Invalid email address.
+
+# Create account
+user-mgmt.password=Password
+user-mgmt.password-again=Password (again)
+user-mgmt.agency=Public transit agency
+user-mgmt.admin-access=Administrator access
+
+user-mgmt.edit-account=Edit account
